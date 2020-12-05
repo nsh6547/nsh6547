@@ -28,7 +28,7 @@
 
 ### Personal Project
 - [Boston Housing](https://github.com/nsh6547/POSCO_BigdataProject_PDP-ProcessImprovement):보스턴 주택 가격 예측(Kaggle)
-- [Posco_Thick_placte_factory_scale_analysis](https://github.com/nsh6547/Posco_Thick-plate-factory_scale_bad):포스코 후판공장 스케일 불량 분석 및 예측
+- [Posco_Thick_placte_factory_scale_analysis](https://github.com/nsh6547/Posco_Thick-plate-factory_scale_bad):포스코 후판공장 스케일 불량 분석
 - [System Trading on Binance]: 바이낸스 선물 역추세추종 기법매매 Ssunbot_v1.1(소스코드 비공개)
 - [Grade Management Project with Python](https://github.com/nsh6547/POSTECH_Grade_Management_Project): 파이썬 성적 관리 프로그램
 
