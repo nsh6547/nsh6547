@@ -26,8 +26,7 @@
 - [System Trading on Binance]: 바이낸스 선물 역추세추종 기법매매 Ssunbot_v1.1(소스코드 비공개)
 
 - [ARC Data Detection System]: 2020-1 캡스톤: 임베디드 환경에서 딥러닝을 이용한 전기화재 예방목적을 위한 ARC데이터 감지 시스템
-
-
+- [BIGDATA_MACHINE_LEARNING](https://github.com/nsh6547/POSCO_BigdataProject_PDP-ProcessImprovement): 중남미 向 PDP 공정 설비 및 작업조건 최적화를 통한 명점 불량 Zero 化
 <div align=center>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCSqTyzqkV8qCR8atX8lf9aA)](https://www.youtube.com/channel/UCSqTyzqkV8qCR8atX8lf9aA) 
