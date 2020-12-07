@@ -23,7 +23,7 @@
 - Computer vision
 
 ### Team Project
-- [ARC Data Detection System]: 2020-1 캡스톤: 임베디드 환경에서 딥러닝을 이용한 전기화재 예방목적을 위한 ARC데이터 감지 시스템
+- [ARC Signal Detection System]: 2020-1 캡스톤: 엣지 디바이스에서 딥러닝을 이용한 전기화재 예방목적을 위한 ARC 신호 감지 시스템
 - [BIGDATA_MACHINE_LEARNING](https://github.com/nsh6547/POSCO_BigdataProject_PDP-ProcessImprovement): 중남미 向 PDP 공정 설비 및 작업조건 최적화를 통한 명점 불량 Zero 化
 
 ### Personal Project
