@@ -25,6 +25,7 @@
 ### Team Project
 - [ARC Signal Detection System]: 2020-1 캡스톤: 엣지 디바이스에서 딥러닝을 이용한 전기화재 예방목적을 위한 ARC 신호 감지 시스템
 - [BIGDATA_MACHINE_LEARNING](https://github.com/nsh6547/POSCO_BigdataProject_PDP-ProcessImprovement): 중남미 向 PDP 공정 설비 및 작업조건 최적화를 통한 명점 불량 Zero 化
+- [POSTEAT](https://github.com/nsh6547/POSTEAT-delivery-app): 딥러닝을 이용한 얼굴 감정 분석 후 배달음식메뉴 추천기능 배달음식어플
 
 ### Personal Project
 - [Boston Housing](https://github.com/nsh6547/POSCO_BigdataProject_PDP-ProcessImprovement):보스턴 주택 가격 예측(Kaggle)
