@@ -16,7 +16,7 @@
 ### Career
 * Major : Computer Engineering
 * POSCO AI Big Data Academy 12th (2020.11.02 ~ 2020.12.29)
-* SAMSUNG Software Academy For Youth(2021.01.04 ~ )
+* SAMSUNG Software Academy For Youth 5th (2021.01.04 ~ )
 
 ### Interest
 - Deep Learning & Machine Learning
