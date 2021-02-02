@@ -28,6 +28,7 @@
 - [POSTEAT](https://github.com/nsh6547/POSTEAT-delivery-app): 딥러닝을 이용한 얼굴 감정 분석 후 배달음식메뉴 추천기능 배달음식어플
 
 ### Personal Project
+- [Algorithm](https://github.com/nsh6547/Algorithm): 1Day 1 Algorithm 문제
 - [Boston Housing](https://github.com/nsh6547/POSCO_BigdataProject_PDP-ProcessImprovement):보스턴 주택 가격 예측
 - [Posco_Thick_placte_factory_scale_analysis](https://github.com/nsh6547/Posco_Thick-plate-factory_scale_bad):포스코 후판공장 스케일 불량 분석
 - [System Trading on Binance]: 바이낸스 선물 역추세추종 기법매매 Ssunbot_v1.1(소스코드 비공개)
